@@ -152,11 +152,11 @@ project = Project(
     title="Jux Discovery",
     project_html="""
         <img class="project-logo" alt="Project logo" src="http://archiveteam.org/images/6/6f/Jux_logo.png" height="50px" title=""/>
-        <h2>Qwiki Phase 1.
+        <h2>Jux Phase 1.
         <span class="links">
              <a href="http://jux.com/">Website</a> &middot;
-             <a href="http://tracker.archiveteam.org/juxdisco/">Leaderboard</a>
-             <a href="http://archiveteam.org/index.php?title=Jux">Wiki</a> &middot;
+             <a href="http://tracker.archiveteam.org/juxdisco/">Leaderboard</a> &middot;
+             <a href="http://archiveteam.org/index.php?title=Jux">Wiki</a>
          </span>
         </h2>
         <p>Jux is shutting down. Phase 1: content discovery.</p>
