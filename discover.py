@@ -120,6 +120,9 @@ def fetch(url):
     elif response.status_code == 404:
         # Does not exist
         return
+    elif response.status_code == 500:
+        # Pops up every now and then
+        return
     else:
         # Problem
         raise FetchError()
